@@ -1,0 +1,25 @@
+✅ Step-by-step correct sequence
+
+Activate your virtual environment (only once per session):
+
+source ~/dht11/env/bin/activate
+
+
+You’ll see your terminal change to something like:
+
+(env) vivek@raspberrypi:~ $
+
+
+Change directory to where your script is:
+
+cd ~/dht11
+
+
+Run your Python file:
+
+python t.py
+
+
+or, if your Raspberry Pi uses Python 3 explicitly:
+
+python3 t.py
